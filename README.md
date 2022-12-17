@@ -2,7 +2,7 @@
 Este projeto utiliza um ESP8266 conectado à uma memória at24c512 para guardar dados de uma agenda telefonica
 
 
-![6 (1)]()
+![6 (1)](WhatsApp Image 2022-12-17 at 14.43.26)
 
 
 
